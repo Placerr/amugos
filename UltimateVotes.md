@@ -1,6 +1,6 @@
 # UltimateVotes [1.13 Spigot / BungeeCord][UUID] 2.1-0756e46
-Native Minecraft Version: 1.13
-Tested Minecraft Versions: 1.8 / 1.9 / 1.10 / 1.11 / 1.12 / 1.13 / 1.14 / 1.15 / 1.16 / 1.17 / 1.18 / 1.19
+- Native Minecraft Version: 1.13
+- Tested Minecraft Versions: 1.8 / 1.9 / 1.10 / 1.11 / 1.12 / 1.13 / 1.14 / 1.15 / 1.16 / 1.17 / 1.18 / 1.19
 
 Ultimate Votes.
 The ultimate voting plugin!
